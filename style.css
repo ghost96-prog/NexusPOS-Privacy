@@ -19,7 +19,7 @@ body {
 
 /* Resize the logo */
 .logo {
-    height: 30px; /* Smaller height */
+    height: 50px; /* Smaller height */
     width: auto;
     margin-right: 8px;
 }
